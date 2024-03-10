@@ -1,0 +1,26 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{ergoPackage}
+
+\setlength{\headheight}{15pt}
+\title{Relazione }
+\author{Federico Salonico}
+
+\begin{document}
+\maketitle
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\rfoot{Pagina \thepage \space di \pageref*{LastPage}}
+
+%DOCUMENT BEGINS HERE
+\tableofcontents
+\newpage %new page required to apply changes to header
+
+\lhead{Relazione}
+\rhead{Federico Salonico}
+\renewcommand{\headrulewidth}{0.4pt}
+%SECOND PAGE
+\input{sections/Introduzione.tex}
+
+\end{document}
+
+

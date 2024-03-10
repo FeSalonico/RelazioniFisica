@@ -1,0 +1,192 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{ergoPackage}[12/11/2023 Federico Salonico LaTeX package]
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{cancel}
+\usepackage{fancyhdr}
+%\usepackage{mathptmx}
+\usepackage{newtxtext}
+\usepackage{newtxmath}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{caption}
+\usepackage{xfrac}
+\usepackage{newfloat}
+\usepackage{csvsimple}
+\usepackage{changepage}
+\usepackage{lastpage}
+\usepackage[fleqn]{mathtools}
+\usepackage{pgfplots}
+\usepackage[italian]{babel}
+\usepackage{nameref}
+\usepackage{bm}
+\usepackage{extarrows}
+\usepackage{tikz-cd}
+\usepackage{tikz}
+\usepackage{adjustbox}
+\usepackage{array,contour}
+\usepackage{physics}
+\usepackage{changepage}
+\usepackage{chemfig}
+\usepackage[version=4,arrows=pgf-filled,
+textfontname=sffamily,
+mathfontname=mathsf]{mhchem}
+
+
+\usetikzlibrary{external}
+
+
+\let\origref\nameref
+\def\nameref#1{\textbf{\origref{#1}}}
+
+
+\everymath{\displaystyle}
+
+
+\DeclareFloatingEnvironment[fileext=lop]{plt}
+%\captionsetup[plt]{name=Grafico}
+
+
+\selectlanguage{italian}
+\makeatletter
+
+
+%title reformat
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+\begin{flushleft}
+  \large \@author
+  \newline
+  \Huge \@title
+\end{flushleft}\egroup
+}
+
+%removing indent from footnotes
+\renewcommand\@makefntext[1]{
+\setlength\parindent{1em}%
+\noindent
+\mbox{\textsuperscript{\@thefnmark}}{#1}}
+
+\makeatother
+
+%scientific notation command
+\newcommand{\sn}[2]{\ensuremath{{#1}\cdot 10^{#2}}}
+
+%sections/subsections reformat
+\titleformat*{\section}{\Large\bfseries}
+\titleformat*{\subsection}{\large\bfseries}
+\titleformat*{\subsubsection}{\normalsize}
+\titleformat*{\paragraph}{\normalsize}
+\titleformat*{\subparagraph}{\normalsize}
+
+%equation tags reformat
+\newtagform{brackets}{[}{]}
+\usetagform{brackets}
+
+
+\pagestyle{fancy}
+
+%ToC renaming
+\renewcommand{\contentsname}{Indice}
+
+\pgfplotsset{compat=1.5}
+
+
+\newcommand{\Mat}{\text{Mat}}
+\newcommand{\col}{\text{col}}
+\newcommand{\row}{\text{row}}
+\newcommand{\rk}{\text{rk}}
+\newcommand{\im}{\text{Im}}
+\newcommand{\tc}{\text{ tale che }}
+\newcommand{\sign}{\text{sign}}
+\newcommand{\settsinh}{\text{settsinh}}
+\newcommand{\settcosh}{\text{settcosh}}
+\newcommand{\setttanh}{\text{setttanh}}
+%\renewcommand{\tr}{\text{tr}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Ro}{\overline{\mathbb{R}}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\C}{\mathcal{C}}
+
+\newcommand{\limn}{\lim_{n \rightarrow \infty}}
+\newcommand{\limN}{\lim_{N \rightarrow \infty}}
+\newcommand{\limz}{\lim_{x \rightarrow 0}}
+\renewcommand{\liminf}{\lim_{x \rightarrow \infty}}
+\newcommand{\limg}{\lim_{x \rightarrow x_0}}
+\newcommand{\serie}{\sum_{n = 1}^{\infty}}
+\renewcommand{\bm}[1]{\vb{#1}}
+%\renewcommand{\bm}[1]{\textbf{\textit{#1}}}
+
+\newcommand{\q}{\quad}
+\renewcommand{\qq}{\qquad}
+\newcommand{\qqq}{\qquad \qquad}
+\renewcommand{\v}{\bm{v}}
+\newcommand{\x}{\bm{x}}
+\newcommand{\0}{\bm{0}}
+\newcommand{\w}{\bm{w}}
+\newcommand{\y}{\bm{y}}
+\newcommand{\z}{\bm{z}}
+\newcommand{\F}{\bm{F}}
+\renewcommand{\P}{\bm{P}}
+\renewcommand{\r}{\bm{r}}
+\newcommand{\iv}{\ \hat{\textbf{\i}}}
+\newcommand{\jv}{\ \hat{\textbf{\j}}}
+\newcommand{\kv}{\ \hat{\bm{k}}}
+\newcommand{\ivs}{\hat{\textbf{\i}}}
+\newcommand{\jvs}{\hat{\textbf{\j}}}
+\newcommand{\kvs}{\hat{\bm{k}}}
+\newcommand{\rhov}{\text{\boldmath$\rho$}}
+\newcommand{\thetav}{\text{\boldmath$\theta$}}
+\newcommand{\tauv}{\text{\boldmath$\tau$}}
+\renewcommand{\a}{\bm{a}}
+\renewcommand{\b}{\bm{b}}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\rra}{\Rightarrow}
+\newcommand{\sss}{\Leftrightarrow}
+\newcommand{\la}{\leftarrow}
+\newcommand{\lla}{\Leftarrow}
+\newcommand{\lra}{\leftrightarrow}
+\newcommand{\parallelsum}{\mathbin{\!/\mkern-5mu/\!}}
+
+
+\newcommand{\qed}{\begin{flushright} $\square$ \end{flushright}}
+\newcommand{\nls}{\phantom{.} \\ \\ \\ \\}
+\newcommand{\snls}{\phantom{.} \\ \\}
+
+\newcommand{\vectors}[2][v]{\bm{#1}_1, \bm{#1}_2, \cdots, \bm{#1}_#2}
+\newcommand{\linearcomb}[2]{#1_1 \bm{#2}_1 + #1_2 \bm{#2}_2 + \cdots + #1_n \bm{#2}_n}
+\renewcommand{\span}[1][\vectors{n}]{\text{span}\left(#1\right)}
+\newcommand{\bimat}[2]{\begin{pmatrix} #1 \\ #2 \end{pmatrix}}
+\newcommand{\scal}[1]{\left< #1 \right>}
+\newcommand{\der}[1]{\frac{d #1}{d t}}
+\newcommand{\vers}[1]{\hat{\vb{#1}}}
+
+
+
+\newcommand{\RomanNumeralCaps}[1]{\MakeUppercase{\romannumeral #1}}
+
+%definizione comandi per paragrafi personalizzati
+\newcommand{\thm}[1][]{\par \textbf{Teorema#1}: \\ \\}
+%\newcommand{\oss}{\par \textbf{Oss}: }
+\newcommand{\prop}[1][]{\par \textbf{Proposizione}#1: \\ \\}
+\newcommand{\Dim}[1][]{\par \textbf{Dimostrazione}#1: \\ \\}
+\newcommand{\cor}[1][]{\par \textbf{Corollario}#1: \\ \\}
+\newcommand{\Def}[1][]{\par \textbf{Definizione}#1: \\ \\}
+\newcommand{\es}[1][]{\par \textbf{Esempio}#1: \\ \\}
+\newcommand{\ex}[1][]{\par \textbf{Esercizio}#1: \\ \\}
+\newcommand{\Par}[2][]{\par \textbf{#2}#1: \\ \\}
+\newcommand{\lemma}[1][]{\par \textbf{Lemma#1}: \\ \\}
+
+\newenvironment{oss}{\begin{itemize} \item[\textbf{Oss}:]} {\end{itemize}}
+\newenvironment{nota}{\begin{itemize} \item[\textbf{Nota}:]} {\end{itemize}}
+
+  
+
+
