@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{ergoPackage}[12/11/2023 Federico Salonico LaTeX package]
+\ProvidesPackage{ergoPackageRel}[12/11/2023 Federico Salonico LaTeX package]
 
 
 \usepackage[utf8]{inputenc}
@@ -48,21 +48,31 @@ mathfontname=mathsf]{mhchem}
 
 \everymath{\displaystyle}
 
+%caption setup
+\captionsetup[table]{name=Tabella}
+\captionsetup[figure]{name=Figura}
+\captionsetup[table]{skip=10pt}
+\captionsetup[table]{oneside,margin={0.6cm,0cm}}
+\captionsetup[figure]{oneside,margin={0.6cm,0cm}}
+\captionsetup[plt]{oneside,margin={0.6cm,0cm}}
+\captionsetup[figure]{skip=10pt}
+\captionsetup{justification=raggedright,singlelinecheck=false}
 
 \DeclareFloatingEnvironment[fileext=lop]{plt}
-%\captionsetup[plt]{name=Grafico}
-
+\captionsetup[plt]{name=Grafico}
 
 \selectlanguage{italian}
 \makeatletter
 
 
 %title reformat
-\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{4pt}
 \begin{flushleft}
   \large \@author
-  \newline
+  \newline \newline
   \Huge \@title
+  \newline \newline
+  \large \@date
 \end{flushleft}\egroup
 }
 
