@@ -1,6 +1,6 @@
-PWD d:\githubClones\RelazioniFisica\RelazioniUniverista\determinazionePiGreco
+PWD d:\githubClones\RelazioniFisica\RelazioniUniverista\latexProjects\determinazionePiGreco
 INPUT C:\Users\feder\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\githubClones\RelazioniFisica\RelazioniUniverista\determinazionePiGreco\main.tex
+INPUT d:\githubClones\RelazioniFisica\RelazioniUniverista\latexProjects\determinazionePiGreco\main.tex
 OUTPUT main.log
 INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -8,8 +8,8 @@ INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
 INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
 INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
 INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT D:\githubClones\RelazioniFisica\RelazioniUniverista\mytexmf\tex\latex\mystuff\ergoPackageRel.sty
-INPUT D:\githubClones\RelazioniFisica\RelazioniUniverista\mytexmf\tex\latex\mystuff\ergoPackageRel.sty
+INPUT D:\githubClones\RelazioniFisica\RelazioniUniverista\latexProjects\mytexmf\tex\latex\mystuff\ergoPackageRel.sty
+INPUT D:\githubClones\RelazioniFisica\RelazioniUniverista\latexProjects\mytexmf\tex\latex\mystuff\ergoPackageRel.sty
 INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\feder\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty

@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1710190458 "d:/githubClones/RelazioniFisica/RelazioniUniverista/determinazionePiGreco/main.tex" "main.pdf" "main" 1710190464 0
+["pdflatex"] 1710191084 "d:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/determinazionePiGreco/main.tex" "main.pdf" "main" 1710191090 0
   "C:/Users/feder/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1710174941 165709 dd1210c43616e16444a14e91462fe466 ""
-  "C:/Users/feder/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1710173617 24212875 1aef7abe0d274a1c16423a1b9c47bea7 ""
+  "C:/Users/feder/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1710191078 24212875 a75589a0171166015b3c4d5579182ae1 ""
   "C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1707588428 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1525737014 3124 3813fd4c981d99822890a2861b0d274c ""
   "C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -299,17 +299,17 @@
   "C:/Users/feder/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656233319 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/feder/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/feder/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693732032 123 a302f2c651a95033260db60e51527ae8 ""
-  "D:/githubClones/RelazioniFisica/RelazioniUniverista/mytexmf/tex/latex/mystuff/ergoPackageRel.sty" 1710175343 5831 07e4e862fb74dc912169260beb0c1ef9 ""
-  "d:/githubClones/RelazioniFisica/RelazioniUniverista/determinazionePiGreco/main.tex" 1710189628 752 9080412d86b42cad051250a440e57dc5 ""
-  "main.aux" 1710190463 1120 d162ca71ccef5c1b69a689f514581e4d "pdflatex"
-  "main.out" 1710190463 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1710189628 752 9080412d86b42cad051250a440e57dc5 ""
+  "D:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/mytexmf/tex/latex/mystuff/ergoPackageRel.sty" 1710175343 5831 07e4e862fb74dc912169260beb0c1ef9 ""
+  "d:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/determinazionePiGreco/main.tex" 1710191060 752 9080412d86b42cad051250a440e57dc5 ""
+  "main.aux" 1710191089 1120 d162ca71ccef5c1b69a689f514581e4d "pdflatex"
+  "main.out" 1710191089 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1710191060 752 9080412d86b42cad051250a440e57dc5 ""
   "plots/plt1.png" 1710188678 38355 eec38639852a0e387df721d17a9b1467 ""
   "sections/Introduzione.tex" 1710190366 305 238965aa6cd1986f4e710271955570d0 ""
   "sections/conclusione.tex" 1710190345 720 9299b7f78cb8a9f0393efa7d57417a8f ""
   "sections/descrizione.tex" 1710176846 492 8d1968bd843f1ca97fab0081436c2cca ""
   "sections/materialiStrumenti.tex" 1710176822 245 4afc76b9408f2142a6f47bca0aa57ac8 ""
-  "sections/misureElaborazione.tex" 1710190456 1596 4bab14d792aa77dc634a22fa58a8c2f0 ""
+  "sections/misureElaborazione.tex" 1710190666 1596 4bab14d792aa77dc634a22fa58a8c2f0 ""
   "tables/tabDati.tex" 1710186083 1273 d7621f4b265f1e8ca685037bd74b8a07 ""
   "tables/tabStrumenti.tex" 1710175958 368 486d69ad3130821c0e2316477f398da5 ""
   (generated)
