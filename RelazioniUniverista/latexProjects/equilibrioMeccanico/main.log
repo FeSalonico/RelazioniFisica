@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.11)  27 MAR 2024 08:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.11)  27 MAR 2024 09:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/determinazionePiGreco/main.tex
-(d:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/determinazionePiGreco/main.tex
+**d:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/equilibrioMeccanico/main.tex
+(d:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/equilibrioMeccanico/main.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
 (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -903,34 +903,69 @@ Package: simplekv 2023/10/02 v0.2c Simple keyval package (CT)
 \CF_substtoks=\toks52
 )
 Package: chemfig 2023/06/30 v1.6e Draw molecule with an easy syntax (CT)
+) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/floatrow\floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count350
+\float@exts=\toks53
+\float@box=\box78
+\@floatcapt=\box79
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+\FR@everyfloat=\toks54
+\flrow@foot=\insert252
+\FB@wd=\dimen351
+\FBo@wd=\dimen352
+\FBc@wd=\dimen353
+\FBo@ht=\skip73
+\FBc@ht=\skip74
+\FBf@ht=\skip75
+\FBo@max=\skip76
+\FBc@max=\skip77
+\FBf@max=\skip78
+\c@FBl@b=\count351
+\floatbox@depth=\count352
+\c@FRobj=\count353
+\c@FRsobj=\count354
+\Xhsize=\skip79
+\sXhsize=\skip80
+\Zhsize=\skip81
+\sZhsize=\skip82
+\flrow@rowbox=\box80
+\FR@Zunitlength=\dimen354
+\c@FBcnt=\count355
+\FPOScnt=\count356
+\LTleft=\skip83
+\LTright=\skip84
+\LTleft=\skip85
+\LTright=\skip86
+\flrow@types=\toks55
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/mhchem\mhchem.sty
 Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/chemgreek\chemgreek.sty
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
-\l__chemgreek_tmpa_int=\count350
-\g__chemgreek_tmpa_int=\count351
+\l__chemgreek_tmpa_int=\count357
+\g__chemgreek_tmpa_int=\count358
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count352
-\__mhchem_arrow_extPgfLength_skip=\skip73
-\mhchem@minispace@tmp=\skip74
-\mhchem@minibackspace@tmp=\skip75
-\mhchem@bondwidth=\skip76
-\mhchem@bondheight=\skip77
-\mhchem@smallbondwidth@tmpA=\skip78
-\mhchem@smallbondwidth@tmpB=\skip79
-\mhchem@smallbondwidth=\skip80
-\mhchem@bondtmp@minussidebearingleft=\skip81
-\mhchem@bondtmp@minussidebearingright=\skip82
-\l__mhchem_option_version_int=\count353
-\mhchem@option@minusmathsidebearingleft=\dimen351
-\mhchem@option@minusmathsidebearingright=\dimen352
-\mhchem@option@minustextsidebearingleft=\dimen353
-\mhchem@option@minustextsidebearingright=\dimen354
+\l__mhchem_ce_distanceFromLastComma_int=\count359
+\__mhchem_arrow_extPgfLength_skip=\skip87
+\mhchem@minispace@tmp=\skip88
+\mhchem@minibackspace@tmp=\skip89
+\mhchem@bondwidth=\skip90
+\mhchem@bondheight=\skip91
+\mhchem@smallbondwidth@tmpA=\skip92
+\mhchem@smallbondwidth@tmpB=\skip93
+\mhchem@smallbondwidth=\skip94
+\mhchem@bondtmp@minussidebearingleft=\skip95
+\mhchem@bondtmp@minussidebearingright=\skip96
+\l__mhchem_option_version_int=\count360
+\mhchem@option@minusmathsidebearingleft=\dimen355
+\mhchem@option@minusmathsidebearingright=\dimen356
+\mhchem@option@minustextsidebearingleft=\dimen357
+\mhchem@option@minustextsidebearingright=\dimen358
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer/libraries\tikzlibraryexternal.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex))
-Package newfloat Info: New float `plt' with options `fileext=lop' on input line 61.
-\c@plt=\count354
-\newfloat@ftype=\count355
-Package newfloat Info: float type `plt'=8 on input line 61.
+Package newfloat Info: New float `plt' with options `fileext=lop' on input line 62.
+\c@plt=\count361
+Package newfloat Info: float type `plt'=4 on input line 62.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 9.
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtlf.fd
@@ -1018,25 +1053,25 @@ LaTeX Info: Command `\dddot' is already robust on input line 9.
 LaTeX Info: Command `\ddddot' is already robust on input line 9.
 (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count356
-\scratchdimen=\dimen355
-\scratchbox=\box78
-\nofMPsegments=\count357
-\nofMParguments=\count358
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count359
-\MPscratchDim=\dimen356
-\MPnumerator=\count360
-\makeMPintoPDFobject=\count361
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count362
+\scratchdimen=\dimen359
+\scratchbox=\box81
+\nofMPsegments=\count363
+\nofMParguments=\count364
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count365
+\MPscratchDim=\dimen360
+\MPnumerator=\count366
+\makeMPintoPDFobject=\count367
+\everyMPtoPDFconversion=\toks57
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@mv@tabular=\count362
-\c@mv@boldtabular=\count363
+\c@mv@tabular=\count368
+\c@mv@boldtabular=\count369
 Package hyperref Info: Link coloring OFF on input line 9.
  (main.out) (main.out)
 \@outlinefile=\write5
@@ -1044,10 +1079,14 @@ Package hyperref Info: Link coloring OFF on input line 9.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen357
-\caption@adjustwidth@linewidth=\dimen358
+\caption@adjustwidth@hsize=\dimen361
+\caption@adjustwidth@linewidth=\dimen362
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: floatrow package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package newfloat Info: Trying Plan B...
+Package newfloat Info: `float' package detected.
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.5).
 
@@ -1070,30 +1109,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 24.88pt on input line 11.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 20.74pt on input line 11.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 11.
-(C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
-File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
- (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
- (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 11.
- (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
-File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 11.
- (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
-File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 11.
- (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
-File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-) (sections/Introduzione.tex
+(sections/Introduzione.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--1
 
  []
@@ -1108,22 +1124,70 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
 ) (sections/materialiStrumenti.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--1
-
- []
-
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 4.
-(C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+ (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 4.
- (tables/tabStrumenti.tex)) (sections/descrizione.tex) [1
+ (tables/tabStrumenti.tex
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 3.
+ (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 3.
+ (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 3.
+ (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 3.
+ (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+))) [1
 
-{C:/Users/feder/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] (sections/misureElaborazione.tex (tables/tabDati.tex)
-<plots/plt1.png, id=17, 364.197pt x 217.467pt>
+{C:/Users/feder/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] (sections/descrizione.tex
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 3.
+<figures/sch1.png, id=18, 144.321pt x 273.969pt>
+File: figures/sch1.png Graphic file (type png)
+<use figures/sch1.png>
+Package pdftex.def Info: figures/sch1.png  used on input line 15.
+(pdftex.def)             Requested size: 72.16031pt x 136.98415pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--19
+
+ []
+
+[2 <./figures/sch1.png>] (tables/tabElastico8.tex))
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
+
+ []
+
+[3] (sections/misureElaborazione.tex (tables/tabDati.tex)
+<plots/plt1.png, id=33, 364.197pt x 217.467pt>
 File: plots/plt1.png Graphic file (type png)
 <use plots/plt1.png>
 Package pdftex.def Info: plots/plt1.png  used on input line 7.
@@ -1144,7 +1208,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
 
-[2 <./plots/plt1.png>]) (sections/conclusione.tex
+[4 <./plots/plt1.png>]) (sections/conclusione.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--1
 
  []
@@ -1186,11 +1250,11 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.3pt on input line 6.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 3--28
+Underfull \hbox (badness 10000) in paragraph at lines 3--29
 
  []
 
-[3] 
+[5] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (main.aux)
  ***********
@@ -1201,17 +1265,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43398 strings out of 474591
- 972112 string characters out of 5745778
+ 43896 strings out of 474591
+ 979762 string characters out of 5745778
  1938533 words of memory out of 5000000
- 64769 multiletter control sequences out of 15000+600000
- 637426 words of font info for 196 fonts, out of 8000000 for 9000
+ 65255 multiletter control sequences out of 15000+600000
+ 617823 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,14n,131p,816b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 111i,11n,131p,814b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on main.pdf (3 pages, 188194 bytes).
+Output written on main.pdf (5 pages, 216863 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
