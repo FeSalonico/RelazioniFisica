@@ -1,27 +1,39 @@
 \section*{Misure ed elaborazione dati}
 \everymath{\displaystyle}
+$\theta_A = 43^\circ$\\ 
+$\theta_B = 56^\circ$\\ 
+$l_{A_0} = l_{B_0} = 105.5\;mm \pm 0.5\;mm = l_0$\\ 
+$k_A = k_B = 70 Nm^{-1} \pm 5 Nm^{-1} = k$
 \input{tables/tabDati.tex}
-\nls
-\begin{plt}[h!]
-    \hspace{5mm}
-    \includegraphics[width=10cm]{plots/plt1.png}
-    \caption{Relazione tra circonferenza e diametro}
-    \label{plt1}
-\end{plt}
-\newpage
-Detto $n = 15$ il numero di misurazioni effettuate si ha che:\\ \\ 
-$\overline{\pi} = \frac{1}{n}\sum_{i=1}^{n} \frac{c_i}{d_i} = 3.128$\\ 
-\snls
-Dati $\qq \overline{c} = \frac{1}{n} \sum_{i = 1}^{n} c_i = 422\;mm \qqq  \overline{d} = \frac{1}{n} \sum_{i = 1}^{n} d_i = 135.1\;mm$\\ 
-si considera la funzione $f(c,d) = \frac{c}{d}$; dunque, tramite analisi della propagazione dell'errore di misura, si ottiene: \\ \\ 
-$\Delta \pi = \sqrt{\left(\left|\frac{\partial f(c,d)}{\partial c} \right|_{\overline{c}, \overline{d}} \Delta c \right)^2 +
-\left(\left|\frac{\partial f(c,d)}{\partial d} \right|_{\overline{c}, \overline{d}} \Delta d \right)^2} = 
-\sqrt{\left(\left|\frac{\partial \frac{c}{d}}{\partial c} \right|_{\overline{c}, \overline{d}} \Delta c \right)^2 +
-\left(\left|\frac{\partial \frac{c}{d}}{\partial d} \right|_{\overline{c}, \overline{d}} \Delta d \right)^2} \\ 
-= \sqrt{\left(\frac{1}{\overline{d}} \Delta c \right)^2 +
-\left(-\frac{\overline{c}}{\left(\overline{d}\right)^2} \Delta d \right)^2} = 0.014$\\ 
 \snls 
-Si riportano anche i valori di semidispersione, deviazione standard e coefficiente di correlazione lineare quadratico:\\ \\ 
-$\frac{\pi_{max}- \pi_{min}}{2} = 0.06$\\\\
-$\sigma_{\pi} = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(\overline{\pi}-\pi_i)^2} = 0.03$\\\\
-$R^2 = 0.9996$
+Si osserva che il corpo è inizialmente in quiete e rimane in quiete.\\ 
+Dunque, per il secondo principio della dinamica, la somma delle forze agenti sul corpo è nulla.\\ 
+In particolare:\\ \\
+$
+\begin{cases}
+    x: \qq \F_{A_x} + \F_{B_x} = 0\\
+    y: \qq \F_{A_y} + \F_{B_y} + \vb{P} = 0
+\end{cases}
+\\ 
+\phantom{A}
+\\
+\begin{cases}
+    x: \qq  F_{B_x} - F_{A_x} = 0\\
+    y: \qq F_{A_y} + F_{B_y}  -m_ig = 0
+\end{cases} 
+\\
+\phantom{A}
+\\
+\begin{cases}
+    x: \qq  F_{B} \cos \theta_B - F_{A} \cos \theta_A = 0\\
+    y: \qq F_{A}\sin \theta_A  + F_{B}\sin \theta_B -m_ig  = 0
+\end{cases} 
+\\ 
+\phantom{A}
+\\
+\begin{cases}
+    x: \qq  k (l_{B_i} - l_0) \cos \theta_B - k (l_{A_i} - l_0) \cos \theta_A = 0\\
+    y: \qq k (l_{A_i} - l_0)\sin \theta_A  + k (l_{B_i} - l_0)\sin \theta_B -m_ig  = 0
+\end{cases} 
+$ 
+\input{tables/tabRis.tex}

@@ -1,0 +1,26 @@
+\section{Propagazione dell'errore di misura}
+
+\Par{Errore di misura per il calcolo della costante elastica}
+$k_i= f(m_i,l_i,l_0) = \frac{m_ig}{l_i-l_0}$\\ \\ 
+$\Delta k_i = \sqrt{
+    \left(\left|\frac{\partial f}{\partial m}\right|_{m_i,l_i,l_0} \Delta m\right)^2 +
+    \left(\left|\frac{\partial f}{\partial l}\right|_{m_i,l_i,l_0} \Delta l\right)^2 +
+    \left(\left|\frac{\partial f}{\partial l_0}\right|_{m_i,l_i,l_0} \Delta l_0 \right)^2
+} = \\ \\
+\sqrt{
+    \left( \frac{g}{l_i-l_0} \Delta m \right)^2 +
+    \left( \frac{gm_i}{-(l_1-l_0)^2} \Delta l \right)^2 +
+    \left( \frac{gm_i}{(l_1-l_0)^2} \Delta l_0 \right)^2 
+}
+$\\ \\ 
+\snls 
+\Par{Errore di misura per il calcolo della forza risultante in direzione $x$}
+$F_{x_i} = f(k,l_0,\theta_A,\theta_B, l_{A_i}, l_{B_i}) = k (l_{B_i} - l_0) \cos \theta_B - k (l_{A_i} - l_0) \cos \theta_A$ \\ \\ 
+$\Delta F_{x_i} = \sqrt{
+    \left(\frac{\partial f}{\partial k} \Delta k\right)^2 +
+    \left(\frac{\partial f}{\partial l_0} \Delta l_0\right)^2 +
+    \left(\frac{\partial f}{\partial \theta_A} \Delta \theta_A\right)^2 +
+    \left(\frac{\partial f}{\partial \theta_B} \Delta \theta_B\right)^2 +
+    \left(\frac{\partial f}{\partial l_{A_i}} \Delta l_{A_i}\right)^2 +
+    \left(\frac{\partial f}{\partial l_{B_i}} \Delta l_{B_i}\right)^2 
+} = \\ \\

@@ -34,13 +34,14 @@
 \usepackage{physics}
 \usepackage{changepage}
 \usepackage{chemfig}
-\usepackage{floatrow}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\restylefloat{table}
 \usepackage[version=4,arrows=pgf-filled,
 textfontname=sffamily,
 mathfontname=mathsf]{mhchem}
 
-\newfloatcommand{capbtabbox}{table}[][\FBwidth]
-\usetikzlibrary{external}
 
 
 \let\origref\nameref
