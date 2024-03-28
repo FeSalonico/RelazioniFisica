@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.27)  27 MAR 2024 15:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.11)  28 MAR 2024 09:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/GitHubClones/RelazioniFisica/RelazioniUniverista/latexProjects/equilibrioMeccanico/main.tex
-(c:/GitHubClones/RelazioniFisica/RelazioniUniverista/latexProjects/equilibrioMeccanico/main.tex
+**d:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/equilibrioMeccanico/main.tex
+(d:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/equilibrioMeccanico/main.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
 (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -23,7 +23,7 @@ File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:/GitHubClones/RelazioniFisica/RelazioniUniverista/latexProjects/mytexmf\tex/latex\mystuff\ergoPackageRel.sty
+) (D:/githubClones/RelazioniFisica/RelazioniUniverista/latexProjects/mytexmf\tex/latex\mystuff\ergoPackageRel.sty
 Package: ergoPackageRel 12/11/2023 Federico Salonico LaTeX package
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
@@ -138,8 +138,8 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip60
 \f@nch@O@orf=\skip61
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
-Package: newtxtext 2023/10/29 v1.73(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
- `newtxtext' v1.73, 2023/10/29 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: newtxtext 2024/02/08 v1.738(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
+ `newtxtext' v1.738, 2024/02/08 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2023-11-01 L3 programming layer (loader) 
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
@@ -195,8 +195,6 @@ LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
 \ntx@tmpcnta=\count280
 \ntx@cnt=\count281
-\ntxsups@scale=\dimen158
-\ntxsups@raise=\dimen159
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
@@ -210,24 +208,24 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-\tx@sixem=\dimen160
-\tx@y=\dimen161
-\tx@x=\dimen162
-\tx@tmpdima=\dimen163
-\tx@tmpdimb=\dimen164
-\tx@tmpdimc=\dimen165
-\tx@tmpdimd=\dimen166
-\tx@tmpdime=\dimen167
-\tx@tmpdimf=\dimen168
-\tx@dimA=\dimen169
-\tx@dimAA=\dimen170
-\tx@dimB=\dimen171
-\tx@dimBB=\dimen172
-\tx@dimC=\dimen173
-LaTeX Info: Redefining \oldstylenums on input line 871.
+\tx@sixem=\dimen158
+\tx@y=\dimen159
+\tx@x=\dimen160
+\tx@tmpdima=\dimen161
+\tx@tmpdimb=\dimen162
+\tx@tmpdimc=\dimen163
+\tx@tmpdimd=\dimen164
+\tx@tmpdime=\dimen165
+\tx@tmpdimf=\dimen166
+\tx@dimA=\dimen167
+\tx@dimAA=\dimen168
+\tx@dimB=\dimen169
+\tx@dimBB=\dimen170
+\tx@dimC=\dimen171
+LaTeX Info: Redefining \oldstylenums on input line 896.
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
-Package: newtxmath 2023/09/14 v1.725
- `newtxmath' v1.725, 2023/09/14 Math macros based originally on txfonts (msharpe) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: newtxmath 2023/11/05 v1.732
+ `newtxmath' v1.732, 2023/11/05 Math macros based originally on txfonts (msharpe) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
 \tx@cntz=\count282
@@ -239,101 +237,101 @@ Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 \tx@su=\read2
 
 amsthm NOT loaded
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 389.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 390.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/minntx/m/n on input line 389.
+(Font)                  OT1/cmr/m/n --> OT1/minntx/m/n on input line 390.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/minntx/m/n on input line 389.
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/m/n on input line 390.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 390.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 396.
+(Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 391.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 397.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/qhv/m/n on input line 396.
+(Font)                  OT1/cmss/m/n --> OT1/qhv/m/n on input line 397.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/qhv/m/n on input line 396.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 397.
+(Font)                  OT1/cmss/bx/n --> OT1/qhv/m/n on input line 397.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 398.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 397.
+(Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 398.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 397.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 398.
+(Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 398.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 399.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 398.
+(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 399.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 398.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 400.
+(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 399.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 401.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 400.
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 401.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 400.
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 401.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 401.
+(Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 402.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/qhv/m/n --> OT1/qhv/b/n on input line 402.
+(Font)                  OT1/qhv/m/n --> OT1/qhv/b/n on input line 403.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/ntxtt/m/n --> OT1/ntxtt/b/n on input line 403.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 505.
+(Font)                  OT1/ntxtt/m/n --> OT1/ntxtt/b/n on input line 404.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 506.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 505.
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 506.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 505.
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 506.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 506.
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 507.
 \symlettersA=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
-(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 561.
-LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 563.
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 562.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 564.
 Now handling font encoding LMS ...
 ... no UTF-8 mapping file for font encoding LMS
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 582.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 583.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 582.
+(Font)              `symbols' in the math version `normal' on input line 583.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 582.
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 583.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 582.
+(Font)              `symbols' in the math version `bold' on input line 583.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 582.
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 583.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 583.
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 584.
 \symAMSm=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
-(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 608.
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 609.
 \symsymbolsC=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
-(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 629.
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 630.
 Now handling font encoding LMX ...
 ... no UTF-8 mapping file for font encoding LMX
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 642.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 643.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 642.
+(Font)              `largesymbols' in the math version `normal' on input line 643.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 642.
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 643.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 642.
+(Font)              `largesymbols' in the math version `bold' on input line 643.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 642.
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 643.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 643.
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 644.
 \symlargesymbolsTXA=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
-(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 657.
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 658.
 \tx@sbptoks=\toks30
-LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 880.
-LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 881.
-LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 882.
-LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 883.
-LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 884.
-LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 885.
-LaTeX Font Info:    Redeclaring math delimiter \langle on input line 886.
-LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 888.
-LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 892.
-LaTeX Font Info:    Redeclaring math delimiter \vert on input line 893.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 964.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 965.
-LaTeX Font Info:    Redeclaring math accent \vec on input line 2035.
-LaTeX Info: Redefining \Bbbk on input line 2825.
-LaTeX Info: Redefining \not on input line 2973.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 881.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 882.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 883.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 884.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 889.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 890.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 892.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 894.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 898.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 899.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 970.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 971.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2044.
+LaTeX Info: Redefining \Bbbk on input line 2834.
+LaTeX Info: Redefining \not on input line 2982.
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
@@ -345,19 +343,19 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen174
-\Gin@req@width=\dimen175
+\Gin@req@height=\dimen172
+\Gin@req@width=\dimen173
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box54
 \beforetitleunit=\skip62
 \aftertitleunit=\skip63
-\ttl@plus=\dimen176
-\ttl@minus=\dimen177
+\ttl@plus=\dimen174
+\ttl@minus=\dimen175
 \ttl@toksa=\toks31
-\titlewidth=\dimen178
-\titlewidthlast=\dimen179
-\titlewidthfirst=\dimen180
+\titlewidth=\dimen176
+\titlewidthlast=\dimen177
+\titlewidthfirst=\dimen178
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-10-27 v7.01d Hypertext links for LaTeX
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
@@ -393,7 +391,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count285
 )
-\@linkdim=\dimen181
+\@linkdim=\dimen179
 \Hy@linkcounter=\count286
 \Hy@pagecounter=\count287
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
@@ -422,15 +420,15 @@ Package hyperref Info: Bookmarks ON on input line 4435.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4773.
-\XeTeXLinkMargin=\dimen182
+\XeTeXLinkMargin=\dimen180
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count290
-\Field@Width=\dimen183
-\Fld@charsize=\dimen184
+\Field@Width=\dimen181
+\Fld@charsize=\dimen182
 Package hyperref Info: Hyper figures OFF on input line 6052.
 Package hyperref Info: Link nesting OFF on input line 6057.
 Package hyperref Info: Hyper index ON on input line 6060.
@@ -467,14 +465,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen185
-\captionmargin=\dimen186
-\caption@leftmargin=\dimen187
-\caption@rightmargin=\dimen188
-\caption@width=\dimen189
-\caption@indent=\dimen190
-\caption@parindent=\dimen191
-\caption@hangindent=\dimen192
+\caption@tempdima=\dimen183
+\captionmargin=\dimen184
+\caption@leftmargin=\dimen185
+\caption@rightmargin=\dimen186
+\caption@width=\dimen187
+\caption@indent=\dimen188
+\caption@parindent=\dimen189
+\caption@hangindent=\dimen190
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count296
@@ -484,7 +482,7 @@ Package caption Info: hyperref package is loaded.
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xtemplate.sty
 Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen193
+\l__xtemplate_tmp_dim=\dimen191
 \l__xtemplate_tmp_int=\count298
 \l__xtemplate_tmp_muskip=\muskip18
 \l__xtemplate_tmp_skip=\skip65
@@ -492,11 +490,11 @@ Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 Package: xfrac 2023-10-10 L3 Experimental split-level fractions
 \l__xfrac_slash_box=\box55
 \l__xfrac_tmp_box=\box56
-\l__xfrac_denominator_bot_sep_dim=\dimen194
-\l__xfrac_numerator_bot_sep_dim=\dimen195
-\l__xfrac_numerator_top_sep_dim=\dimen196
-\l__xfrac_slash_left_sep_dim=\dimen197
-\l__xfrac_slash_right_sep_dim=\dimen198
+\l__xfrac_denominator_bot_sep_dim=\dimen192
+\l__xfrac_numerator_bot_sep_dim=\dimen193
+\l__xfrac_numerator_top_sep_dim=\dimen194
+\l__xfrac_slash_left_sep_dim=\dimen195
+\l__xfrac_slash_right_sep_dim=\dimen196
 \l__xfrac_slash_left_muskip=\muskip19
 \l__xfrac_slash_right_muskip=\muskip20
 
@@ -516,8 +514,8 @@ Package: csvsimple 2023/10/16 v2.5.0 LaTeX CSV file processing
 Package: csvsimple-legacy 2023/10/16 version 2.5.0 LaTeX2e CSV file processing
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks32
-\pgfutil@tempdima=\dimen199
-\pgfutil@tempdimb=\dimen256
+\pgfutil@tempdima=\dimen197
+\pgfutil@tempdimb=\dimen198
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box57
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
@@ -554,8 +552,8 @@ Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count305
 \calc@Bcount=\count306
-\calc@Adimen=\dimen257
-\calc@Bdimen=\dimen258
+\calc@Adimen=\dimen199
+\calc@Bdimen=\dimen256
 \calc@Askip=\skip66
 \calc@Bskip=\skip67
 LaTeX Info: Redefining \setlength on input line 80.
@@ -566,32 +564,32 @@ LaTeX Info: Redefining \addtolength on input line 81.
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count308
-\l_MT_multwidth_dim=\dimen259
+\l_MT_multwidth_dim=\dimen257
 \origjot=\skip69
-\l_MT_shortvdotswithinadjustabove_dim=\dimen260
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen261
-\l_MT_above_intertext_sep=\dimen262
-\l_MT_below_intertext_sep=\dimen263
-\l_MT_above_shortintertext_sep=\dimen264
-\l_MT_below_shortintertext_sep=\dimen265
+\l_MT_shortvdotswithinadjustabove_dim=\dimen258
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen259
+\l_MT_above_intertext_sep=\dimen260
+\l_MT_below_intertext_sep=\dimen261
+\l_MT_above_shortintertext_sep=\dimen262
+\l_MT_below_shortintertext_sep=\dimen263
 \xmathstrut@box=\box58
-\xmathstrut@dim=\dimen266
+\xmathstrut@dim=\dimen264
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
 Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-\pgf@x=\dimen267
-\pgf@y=\dimen268
-\pgf@xa=\dimen269
-\pgf@ya=\dimen270
-\pgf@xb=\dimen271
-\pgf@yb=\dimen272
-\pgf@xc=\dimen273
-\pgf@yc=\dimen274
-\pgf@xd=\dimen275
-\pgf@yd=\dimen276
+\pgf@x=\dimen265
+\pgf@y=\dimen266
+\pgf@xa=\dimen267
+\pgf@ya=\dimen268
+\pgf@xb=\dimen269
+\pgf@yb=\dimen270
+\pgf@xc=\dimen271
+\pgf@yc=\dimen272
+\pgf@xd=\dimen273
+\pgf@yd=\dimen274
 \w@pgf@writea=\write4
 \r@pgf@reada=\read4
 \c@pgf@counta=\count309
@@ -619,7 +617,7 @@ File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen277
+\pgfmath@dimen=\dimen275
 \pgfmath@count=\count316
 \pgfmath@box=\box59
 \pgfmath@toks=\toks39
@@ -629,28 +627,28 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 \c@pgfmathroundto@lastzeros=\count317
 )) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen278
-\pgf@picmaxx=\dimen279
-\pgf@picminy=\dimen280
-\pgf@picmaxy=\dimen281
-\pgf@pathminx=\dimen282
-\pgf@pathmaxx=\dimen283
-\pgf@pathminy=\dimen284
-\pgf@pathmaxy=\dimen285
-\pgf@xx=\dimen286
-\pgf@xy=\dimen287
-\pgf@yx=\dimen288
-\pgf@yy=\dimen289
-\pgf@zx=\dimen290
-\pgf@zy=\dimen291
+\pgf@picminx=\dimen276
+\pgf@picmaxx=\dimen277
+\pgf@picminy=\dimen278
+\pgf@picmaxy=\dimen279
+\pgf@pathminx=\dimen280
+\pgf@pathmaxx=\dimen281
+\pgf@pathminy=\dimen282
+\pgf@pathmaxy=\dimen283
+\pgf@xx=\dimen284
+\pgf@xy=\dimen285
+\pgf@yx=\dimen286
+\pgf@yy=\dimen287
+\pgf@zx=\dimen288
+\pgf@zy=\dimen289
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen292
-\pgf@path@lasty=\dimen293
+\pgf@path@lastx=\dimen290
+\pgf@path@lasty=\dimen291
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen294
-\pgf@shorten@start@additional=\dimen295
+\pgf@shorten@end@additional=\dimen292
+\pgf@shorten@start@additional=\dimen293
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box60
@@ -659,12 +657,12 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picture@serial@count=\count318
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen296
+\pgflinewidth=\dimen294
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen297
-\pgf@pt@y=\dimen298
-\pgf@pt@temp=\dimen299
+\pgf@pt@x=\dimen295
+\pgf@pt@y=\dimen296
+\pgf@pt@temp=\dimen297
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
@@ -673,10 +671,10 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen300
+\pgfarrowsep=\dimen298
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen301
+\pgf@max=\dimen299
 \pgf@sys@shading@range@num=\count319
 \pgf@shadingcount=\count320
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
@@ -699,14 +697,14 @@ File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen302
-\pgf@nodesepend=\dimen303
+\pgf@nodesepstart=\dimen300
+\pgf@nodesepend=\dimen301
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen304
-\pgffor@skip=\dimen305
+\pgffor@iter=\dimen302
+\pgffor@skip=\dimen303
 \pgffor@stack=\toks42
 \pgffor@toks=\toks43
 )) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
@@ -714,16 +712,16 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count321
-\pgfplotmarksize=\dimen306
+\pgfplotmarksize=\dimen304
 )
-\tikz@lastx=\dimen307
-\tikz@lasty=\dimen308
-\tikz@lastxsaved=\dimen309
-\tikz@lastysaved=\dimen310
-\tikz@lastmovetox=\dimen311
-\tikz@lastmovetoy=\dimen312
-\tikzleveldistance=\dimen313
-\tikzsiblingdistance=\dimen314
+\tikz@lastx=\dimen305
+\tikz@lasty=\dimen306
+\tikz@lastxsaved=\dimen307
+\tikz@lastysaved=\dimen308
+\tikz@lastmovetox=\dimen309
+\tikz@lastmovetoy=\dimen310
+\tikzleveldistance=\dimen311
+\tikzsiblingdistance=\dimen312
 \tikz@figbox=\box65
 \tikz@figbox@bg=\box66
 \tikz@tempbox=\box67
@@ -745,7 +743,7 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \t@pgfplots@toka=\toks44
 \t@pgfplots@tokb=\toks45
 \t@pgfplots@tokc=\toks46
-\pgfplots@tmpa=\dimen315
+\pgfplots@tmpa=\dimen313
 \c@pgfplots@coordindex=\count330
 \c@pgfplots@scanlineindex=\count331
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
@@ -761,24 +759,24 @@ Package pgfplots: loading complementary utilities for your pgf version...
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
 \c@pgfplotslibrarysurf@no=\count334
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen316
-\pgfdecoratedremainingdistance=\dimen317
-\pgfdecoratedinputsegmentcompleteddistance=\dimen318
-\pgfdecoratedinputsegmentremainingdistance=\dimen319
-\pgf@decorate@distancetomove=\dimen320
+\pgfdecoratedcompleteddistance=\dimen314
+\pgfdecoratedremainingdistance=\dimen315
+\pgfdecoratedinputsegmentcompleteddistance=\dimen316
+\pgfdecoratedinputsegmentremainingdistance=\dimen317
+\pgf@decorate@distancetomove=\dimen318
 \pgf@decorate@repeatstate=\count335
-\pgfdecorationsegmentamplitude=\dimen321
-\pgfdecorationsegmentlength=\dimen322
+\pgfdecorationsegmentamplitude=\dimen319
+\pgfdecorationsegmentlength=\dimen320
 )
 \tikz@lib@dec@box=\box69
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
 \pgfplots@numplots=\count336
-\pgfplots@xmin@reg=\dimen323
-\pgfplots@xmax@reg=\dimen324
-\pgfplots@ymin@reg=\dimen325
-\pgfplots@ymax@reg=\dimen326
-\pgfplots@zmin@reg=\dimen327
-\pgfplots@zmax@reg=\dimen328
+\pgfplots@xmin@reg=\dimen321
+\pgfplots@xmax@reg=\dimen322
+\pgfplots@ymin@reg=\dimen323
+\pgfplots@ymax@reg=\dimen324
+\pgfplots@zmin@reg=\dimen325
+\pgfplots@zmax@reg=\dimen326
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
@@ -786,7 +784,7 @@ File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/10/25 v3.96 The Babel package
 \babel@savecnt=\count337
-\U@D=\dimen329
+\U@D=\dimen327
 \l@unhyphenated=\language79
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read5
@@ -824,10 +822,10 @@ File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen330
-\pgfarrowlength=\dimen331
-\pgfarrowwidth=\dimen332
-\pgfarrowlinewidth=\dimen333
+\pgfarrowinset=\dimen328
+\pgfarrowlength=\dimen329
+\pgfarrowwidth=\dimen330
+\pgfarrowlinewidth=\dimen331
 ))) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
@@ -838,22 +836,22 @@ Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box70
 )
-\tc@llx=\dimen334
-\tc@lly=\dimen335
-\tc@urx=\dimen336
-\tc@ury=\dimen337
+\tc@llx=\dimen332
+\tc@lly=\dimen333
+\tc@urx=\dimen334
+\tc@ury=\dimen335
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen338
-\adjbox@Height=\dimen339
-\adjbox@Depth=\dimen340
-\adjbox@Totalheight=\dimen341
-\adjbox@pwidth=\dimen342
-\adjbox@pheight=\dimen343
-\adjbox@pdepth=\dimen344
-\adjbox@ptotalheight=\dimen345
+\adjbox@Width=\dimen336
+\adjbox@Height=\dimen337
+\adjbox@Depth=\dimen338
+\adjbox@Totalheight=\dimen339
+\adjbox@pwidth=\dimen340
+\adjbox@pheight=\dimen341
+\adjbox@pdepth=\dimen342
+\adjbox@ptotalheight=\dimen343
  (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count342
@@ -862,13 +860,13 @@ LaTeX Info: Redefining \checkoddpage on input line 45.
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box71
 \sift@deathcycles=\count343
-\@vwid@loff=\dimen346
-\@vwid@roff=\dimen347
+\@vwid@loff=\dimen344
+\@vwid@roff=\dimen345
 )) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen348
+\col@sep=\dimen346
 \ar@mcellbox=\box72
-\extrarowheight=\dimen349
+\extrarowheight=\dimen347
 \NC@list=\toks51
 \extratabsurround=\skip70
 \backup@length=\skip71
@@ -895,17 +893,16 @@ Package: simplekv 2023/10/02 v0.2c Simple keyval package (CT)
 \CF_cnt_cycle=\count347
 \CF_cnt_cyclebonds=\count348
 \CF_cnt_compound=\count349
-\CF_dim=\dimen350
-\CF_turnangle=\dimen351
-\CF_arrowsize=\dimen352
-\CF_zero=\dimen353
+\CF_dim=\dimen348
+\CF_arrowsize=\dimen349
+\CF_zero=\dimen350
 \CF_box=\box74
 \CF_boxstuff=\box75
 \CF_testbox=\box76
 \CF_chargebox=\box77
 \CF_substtoks=\toks52
 )
-Package: chemfig 2023/12/28 v1.66 Draw molecule with an easy syntax (CT)
+Package: chemfig 2023/06/30 v1.6e Draw molecule with an easy syntax (CT)
 ) (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count350
@@ -940,10 +937,10 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use 
 \mhchem@bondtmp@minussidebearingleft=\skip81
 \mhchem@bondtmp@minussidebearingright=\skip82
 \l__mhchem_option_version_int=\count356
-\mhchem@option@minusmathsidebearingleft=\dimen354
-\mhchem@option@minusmathsidebearingright=\dimen355
-\mhchem@option@minustextsidebearingleft=\dimen356
-\mhchem@option@minustextsidebearingright=\dimen357
+\mhchem@option@minusmathsidebearingleft=\dimen351
+\mhchem@option@minusmathsidebearingright=\dimen352
+\mhchem@option@minustextsidebearingleft=\dimen353
+\mhchem@option@minustextsidebearingright=\dimen354
 )
 Package newfloat Info: New float `plt' with options `fileext=lop' on input line 63.
 \c@plt=\count357
@@ -1038,13 +1035,13 @@ LaTeX Info: Command `\ddddot' is already robust on input line 9.
 (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count359
-\scratchdimen=\dimen358
+\scratchdimen=\dimen355
 \scratchbox=\box80
 \nofMPsegments=\count360
 \nofMParguments=\count361
 \everyMPshowfont=\toks56
 \MPscratchCnt=\count362
-\MPscratchDim=\dimen359
+\MPscratchDim=\dimen356
 \MPnumerator=\count363
 \makeMPintoPDFobject=\count364
 \everyMPtoPDFconversion=\toks57
@@ -1057,13 +1054,14 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 \c@mv@tabular=\count365
 \c@mv@boldtabular=\count366
 Package hyperref Info: Link coloring OFF on input line 9.
+ (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen360
-\caption@adjustwidth@linewidth=\dimen361
+\caption@adjustwidth@hsize=\dimen357
+\caption@adjustwidth@linewidth=\dimen358
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package newfloat Info: Trying Plan B...
@@ -1105,10 +1103,14 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
 ) (sections/materialiStrumenti.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--1
+
+ []
+
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 4.
- (C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+(C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
@@ -1142,44 +1144,33 @@ File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 {C:/Users/feder/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] (sections/descrizione.tex
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 3.
-
-
-LaTeX Warning: Reference `fig:figuraVerifica' on page 2 undefined on input line 10.
-
-<figures/sch1.png, id=17, 144.321pt x 273.969pt>
+<figures/sch1.png, id=22, 144.321pt x 273.969pt>
 File: figures/sch1.png Graphic file (type png)
 <use figures/sch1.png>
-Package pdftex.def Info: figures/sch1.png  used on input line 15.
+Package pdftex.def Info: figures/sch1.png  used on input line 16.
 (pdftex.def)             Requested size: 72.16031pt x 136.98415pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--19
+Underfull \hbox (badness 10000) in paragraph at lines 3--20
+
+ []
+
+[2 <./figures/sch1.png>] (tables/tabElastico8.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
 
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 19.
-
-[2 <./figures/sch1.png>]
-
-LaTeX Warning: Reference `fig:figuraVerifica' on page 3 undefined on input line 21.
-
-(tables/tabElastico8.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--1
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--1
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--1
+Underfull \hbox (badness 10000) in paragraph at lines 21--1
 
  []
 
@@ -1188,7 +1179,7 @@ Overfull \hbox (41.06395pt too wide) in paragraph at lines 5--20
 [][] 
  []
 
-<plots/plt2mm.png, id=24, 362.664pt x 206.079pt>
+<plots/plt2mm.png, id=30, 362.664pt x 206.079pt>
 File: plots/plt2mm.png Graphic file (type png)
 <use plots/plt2mm.png>
 Package pdftex.def Info: plots/plt2mm.png  used on input line 23.
@@ -1198,7 +1189,7 @@ Overfull \hbox (29.39127pt too wide) in paragraph at lines 3--21
 [][] 
  []
 
-<plots/pltMolla.png, id=25, 362.664pt x 205.422pt>
+<plots/pltMolla.png, id=31, 362.664pt x 205.422pt>
 File: plots/pltMolla.png Graphic file (type png)
 <use plots/pltMolla.png>
 Package pdftex.def Info: plots/pltMolla.png  used on input line 24.
@@ -1218,46 +1209,33 @@ File: plots/plt2mm.png Graphic file (type png)
 Package pdftex.def Info: plots/plt2mm.png  used on input line 23.
 (pdftex.def)             Requested size: 199.16928pt x 113.17712pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 28--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
 
  []
-
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 31.
 
 [3 <./plots/plt2mm.png> <./plots/pltMolla.png>]
-
-LaTeX Warning: Reference `fig:figuraEsperimento' on page 4 undefined on input line 33.
-
-LaTeX Font Info:    Trying to load font information for OT1+ntxsupsalt on input line 34.
-(C:\Users\feder\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxsupsalt.fd
-File: ot1ntxsupsalt.fd 2023/09/17 v1.0
-)
-LaTeX Font Info:    Font shape `OT1/ntxsupsalt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 34.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 34.
-LaTeX Font Info:    Font shape `OT1/ntxsupsalt/m/n' will be
-(Font)              scaled to size 9.0pt on input line 34.
-<figures/esperimento.png, id=38, 396.609pt x 379.089pt>
+(Font)              scaled to size 8.0pt on input line 35.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 35.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 35.
+<figures/esperimento.png, id=45, 396.609pt x 379.089pt>
 File: figures/esperimento.png Graphic file (type png)
 <use figures/esperimento.png>
-Package pdftex.def Info: figures/esperimento.png  used on input line 41.
+Package pdftex.def Info: figures/esperimento.png  used on input line 42.
 (pdftex.def)             Requested size: 198.304pt x 189.54404pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 32--26
+Underfull \hbox (badness 10000) in paragraph at lines 33--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--26
+Underfull \hbox (badness 10000) in paragraph at lines 33--26
 
  []
 
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 26.
-
-[4{C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntxsups_ot1.enc} <./figures/esperimento.png>] (sections/misureElaborazione.tex (tables/tabDati.tex) (tables/tabRis.tex)) (sections/conclusione.tex
+[4 <./figures/esperimento.png>] (sections/misureElaborazione.tex (tables/tabDati.tex) (tables/tabRis.tex)) (sections/conclusione.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
  []
@@ -1268,15 +1246,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
+Underfull \hbox (badness 10000) in paragraph at lines 3--9
 
  []
 
-)
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 29.
-
-[5] (sections/appendice.tex
+) [5] (sections/appendice.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--17
 
  []
@@ -1301,71 +1275,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--17
 
  []
 
-)
-c:/GitHubClones/RelazioniFisica/RelazioniUniverista/latexProjects/equilibrioMeccanico/main.tex:32: Missing $ inserted.
-<inserted text> 
-                $
-l.32 \end{document}
-                   
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--32
+Underfull \hbox (badness 10000) in paragraph at lines 17--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--32
+Underfull \hbox (badness 10000) in paragraph at lines 17--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--32
+Underfull \hbox (badness 10000) in paragraph at lines 17--35
 
  []
 
 
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 32.
+Underfull \hbox (badness 10000) in paragraph at lines 17--35
 
-[6] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
+
+ []
+
+) [6] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  0F9CB8E1C8994E4C820A8FE49BC780E9;227.
-
-Package lastpage Warning: Rerun to get the references right on input line 32.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 0F9CB8E1C8994E4C820A8FE49BC780E9;227.
  ) 
 Here is how much of TeX's memory you used:
- 43284 strings out of 474592
- 965561 string characters out of 5745799
+ 43304 strings out of 474591
+ 965715 string characters out of 5745778
  1948533 words of memory out of 5000000
- 64630 multiletter control sequences out of 15000+600000
- 599234 words of font info for 119 fonts, out of 8000000 for 9000
+ 64648 multiletter control sequences out of 15000+600000
+ 619579 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,12n,131p,1041b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI5.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ntxsupsalt-Regular.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on main.pdf (6 pages, 325366 bytes).
+ 111i,12n,131p,814b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI5.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/feder/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
+Output written on main.pdf (6 pages, 327577 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
